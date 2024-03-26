@@ -1,17 +1,3 @@
-# 2022整合科学实验
+# ISP Laboratory Course （Section 1）
 
-A course in PKU
-
-白凡老师部分：
-
-第一次实验报告所用代码为 draw.m,数据整合在了脚本里
-
-第二次实验报告所用代码和相关的数据在processed data里，下载后即可复现
-
-第三次实验报告所用代码和相关的数据在3rd里，下载后即可复现
-
-黄岩谊老师部分：
-
-Exp3的代码为light
-
-LD实验代码，将于12.19 24:00前整理上传完成。
+## The Integrated Science Laboratory course, taught by Professors Yanyi Huang and Fan Bai, covers a broad and intriguing array of topics. During the course, students engage in various activities, such as measuring the Boltzmann constant, constructing spectrometers, learning LabVIEW, and designing circuits. The overall atmosphere of the course is relaxed and enjoyable, significantly broadening students' scientific horizons. This course seems to offer a hands-on approach to learning, integrating practical skills with theoretical knowledge, which not only makes learning more engaging but also provides a comprehensive understanding of the scientific principles at play.
